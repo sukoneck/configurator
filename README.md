@@ -1,6 +1,7 @@
 # Summary
 
-Layout configuration files in JSON for mechanical keyboards. 
+Layout configuration and firmware for the [Trashman's Garbage Truck](https://trashman.wiki/en/keyboards/garbage-truck
+) mechanical keyboard. 
 
 # Usage
 
@@ -8,7 +9,3 @@ Layout configuration files in JSON for mechanical keyboards.
  2. Download firmware 
  3. Install QMK Toolbox: https://github.com/qmk/qmk_toolbox
  4. Connect and flash PCB using Toolbox 
-
-# References
- 
- - Garbage Truck wiki: https://trashman.wiki/en/keyboards/garbage-truck
